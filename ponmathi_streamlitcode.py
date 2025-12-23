@@ -14,5 +14,6 @@ st.set_page_config(
    layout="centered"
 )
 
-st.title("Good Boy😊😊")
+st.title("Hello Chichu")
+st.subheader("Good Boy")
 st.subheader("Sleep Baby🥱🥱")
